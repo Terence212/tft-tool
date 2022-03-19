@@ -1,0 +1,101 @@
+[18-Mar-2022 11:30:21 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-matchHistoryStats.php on line 51
+[18-Mar-2022 11:30:38 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-matchHistoryStats.php on line 51
+[18-Mar-2022 11:32:42 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-matchHistoryStats.php on line 51
+[18-Mar-2022 11:57:42 America/Boise] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 3
+[18-Mar-2022 11:58:29 America/Boise] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 3
+[18-Mar-2022 17:28:40 America/Boise] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 3
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 84
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  Undefined array key "info" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 90
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 90
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 92
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 84
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  Undefined array key "info" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 90
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 90
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 92
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 84
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  Undefined array key "info" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 90
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 90
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 92
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 84
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  Undefined array key "info" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 90
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 90
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 92
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 84
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  Undefined array key "info" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 90
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 90
+[18-Mar-2022 18:05:24 America/Boise] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 92
+[18-Mar-2022 18:10:03 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:10:03 America/Boise] PHP Warning:  Undefined array key "info" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:10:03 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:10:03 America/Boise] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 93
+[18-Mar-2022 18:10:03 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:10:03 America/Boise] PHP Warning:  Undefined array key "info" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:10:03 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:10:03 America/Boise] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 93
+[18-Mar-2022 18:10:03 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:10:04 America/Boise] PHP Warning:  Undefined array key "info" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:10:04 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:10:04 America/Boise] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 93
+[18-Mar-2022 18:10:04 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:10:04 America/Boise] PHP Warning:  Undefined array key "info" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:10:04 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:10:04 America/Boise] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 93
+[18-Mar-2022 18:10:04 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:10:04 America/Boise] PHP Warning:  Undefined array key "info" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:10:04 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:10:04 America/Boise] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 93
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  Undefined array key "info" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 93
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  Undefined array key "info" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 93
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  Undefined array key "info" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 93
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  Undefined array key "info" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 93
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  Undefined array key "info" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 91
+[18-Mar-2022 18:15:01 America/Boise] PHP Warning:  foreach() argument must be of type array|object, null given in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 93
+[18-Mar-2022 18:20:40 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:20:40 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
+[18-Mar-2022 18:20:40 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:20:40 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
+[18-Mar-2022 18:20:40 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:20:40 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
+[18-Mar-2022 18:20:40 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:20:40 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
+[18-Mar-2022 18:20:40 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:20:40 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
+[18-Mar-2022 18:22:44 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:22:44 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:22:44 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
+[18-Mar-2022 18:22:44 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:22:44 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:22:44 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
+[18-Mar-2022 18:22:44 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:22:44 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:22:44 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
+[18-Mar-2022 18:22:44 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:22:44 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:22:44 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
+[18-Mar-2022 18:22:44 America/Boise] PHP Warning:  Undefined variable $match_id in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:22:44 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 85
+[18-Mar-2022 18:22:44 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
+[18-Mar-2022 18:23:13 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
+[18-Mar-2022 18:23:13 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
+[18-Mar-2022 18:23:13 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
+[18-Mar-2022 18:23:13 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
+[18-Mar-2022 18:23:13 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
+[18-Mar-2022 18:23:13 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
+[18-Mar-2022 18:23:13 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
+[18-Mar-2022 18:23:13 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
+[18-Mar-2022 18:23:13 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
+[18-Mar-2022 18:23:13 America/Boise] PHP Warning:  Undefined array key "puuid" in /home4/avnknvmy/public_html/tft-tracker/tft-match-history.php on line 94
